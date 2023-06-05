@@ -6,9 +6,9 @@ Simple use the QuadFrameGeometry class exactly like WireFrameGeometry, and add t
 
 Look at some results:
 
-(kang.png)
+![Kangaroo](kang.png)
 
-(bag.png)
+![Bag](bag.png)
 
 Enjoy!
 
