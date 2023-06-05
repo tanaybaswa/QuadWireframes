@@ -6,9 +6,9 @@ Simple use the QuadFrameGeometry class exactly like WireFrameGeometry, and add t
 
 Look at some results:
 
-![Screenshot](animal.png)
+(kang.png)
 
-![Screenshot](bag.png)
+(bag.png)
 
 Enjoy!
 
